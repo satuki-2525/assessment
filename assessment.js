@@ -80,10 +80,9 @@ function assessment(userName){
 
     // 文字のコードの番号の合計を回答数で割って添字の数値を求める
     const index = sumOfCharCode % ansers.length;
-    let result = ansers[index];
+    let result = ansers[index]; // 診断結果を取り出す
 
-    result = result.replaceAll('{userName}', userName);
-
+    result = result.replaceAll('{userName}', userName); // 名前に置き換える
     return result;
 
 }
