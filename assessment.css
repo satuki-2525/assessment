@@ -2,9 +2,10 @@ body{
 
     background-color: #008b8b;
     color: #fdffff;
-    width: 500px;
+    /* width: 500px;
     margin-right: auto;
-    margin-left:auto;
+    margin-left:auto; */
+    text-align: center;
 
 }
 
