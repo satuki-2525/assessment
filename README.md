@@ -1,6 +1,7 @@
 # assessment
 
 
-**公開アドレス**<br>
- https://satuki-2525.github.io/assessment/assessment.html
- 
+
+[いいところ診断](https://satuki-2525.github.io/assessment/assessment.html)
+
+
